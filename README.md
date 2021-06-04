@@ -1,4 +1,4 @@
-- Hey, I’m Emily Frade;
+- 👋 Hey, I’m Emily Frade;
 - I am interested in becoming a Full Stack Developer.
 - I’m currently learning HTML, CSS and Javascript;
 - My Linkedin: https://www.linkedin.com/in/emily-frade-7916b2207/ 
