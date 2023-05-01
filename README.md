@@ -1,9 +1,9 @@
 ## Hey!!! Welcome to my Github 🙂
 
 <ul>
-  <li> 💻 I am interested in becoming a Full Stack Developer;</li> 
-  <li> 📖 I’m currently learning HTML, CSS and Javascript;</li> 
-  <li> 🎓 Future graduate student in information systems at UFOP;</li> 
+  <li> 💻 I am interested in becoming a Software Developer;</li> 
+  <li> 📖 I’m currently learning Javascript;</li> 
+  <li> 🎓 Graduate student in information systems at UFOP;</li> 
 </ul> 
 
 ## Best technologies
