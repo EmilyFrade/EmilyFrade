@@ -1,20 +1,12 @@
-## Hey!!! Welcome to my Github 🙂
+## Seja bem vindo(a) ao meu Github!
 
 <ul>
-  <li> 💻 I am interested in becoming a Software Developer;</li> 
-  <li> 📖 I’m currently learning Javascript;</li> 
-  <li> 🎓 Graduate student in information systems at UFOP;</li> 
+  <li> 💻 Estou estudando para me tornar uma desenvolvedora de software;</li> 
+  <li> 📖 Atualmente estou aprendendo Java;</li> 
+  <li> 🎓 Graduanda de Sistemas de Informação na UFOP;</li> 
 </ul> 
 
-## Best technologies
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
-</div>
-
-## My Stats
+## Minhas estatísticas
 <div>
   <a href="https://github.com/emilyfrade">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilyfrade&layout=compact&langs_count=7&theme=dark"/>
@@ -22,7 +14,7 @@
   </a>
 </div>
 
-## Contact
+## Contato
 <a href="https://linkedin.com/in/emilyfrade/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
